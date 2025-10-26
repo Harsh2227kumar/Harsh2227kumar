@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./bg.gif" alt="Background animation" width="100%">
+</p>
 # 💫 About Me:
 ## 👋 Hi, I'm Harsh Kumar
 I’m a Computer Science and Engineering student passionate about building impactful digital solutions and exploring cutting-edge technologies. I love working on projects that blend creativity with logic — from web apps to blockchain-based systems. <br>
