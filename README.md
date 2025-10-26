@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Harsh2227kumar/Harsh2227kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appea# 💫 About Me:
+# 💫 About Me:
 👋 Hi, I'm Harsh Kumar<br><br>I’m a Computer Science and Engineering student passionate about building impactful digital solutions and exploring cutting-edge technologies. I love working on projects that blend creativity with logic — from web apps to blockchain-based systems.<br><br><br>🚀 What I’m Currently Learning<br><br>💻 Java – strengthening my object-oriented programming skills<br><br>🧩 Data Structures & Algorithms (DSA) – writing efficient and optimized code<br><br>🛠️ Backend Development – working with Node.js, Express, and databases<br><br>🌐 Web3 & Blockchain – exploring decentralized applications<br><br>💳 Payment Gateway Integration – implementing secure online payment systems<br><br><br>💡 Interests<br><br>I’m deeply interested in:<br><br>🌍 Web Development<br><br>🧠 Algorithm-efficient Problem Solving<br><br>🔗 Blockchain & Cryptocurrency<br><br>💳 Payment Integration Systems<br><br>⚡ Web3 and Decentralized Technology<br><br>🧩 What I Do<br><br>Develop full-stack web projects using React, Node.js, and MongoDB<br><br>Experiment with blockchain and smart contracts<br><br>Participate in hackathons & open-source projects<br><br>Learn new technologies every day to become a better problem solver<br><br>📫 Let’s Connect<br><br>I’m always open to collaboration and new ideas — feel free to reach out or check out my repositories! 🚀
 
 
@@ -24,16 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Harsh2227kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->rs on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
