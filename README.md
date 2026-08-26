@@ -27,7 +27,7 @@ Develop full-stack web projects using React, Node.js, and MongoDB<br> > Experime
 
 ## 🧊 3D GitHub Contributions
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub contribution calendar" width="100%">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D GitHub contribution calendar" width="100%">
 </p>
 
 # 📊 GitHub Stats:
