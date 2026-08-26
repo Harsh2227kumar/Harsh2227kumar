@@ -6,7 +6,7 @@
 ## 👋 Hi, I'm Harsh Kumar
 I’m a Computer Science and Engineering student passionate about building impactful digital solutions and exploring cutting-edge technologies. I love working on projects that blend creativity with logic — from web apps to blockchain-based systems. <br>
 ### 🚀 What I’m Currently Learning
-💻 Java – strengthening my object-oriented programming skills<br>🧩 Data Structures & Algorithms (DSA) – writing efficient and optimized code<br>🛠️ Backend Development – working with Node.js, Express, and databases<br>🌐 Web3 & Blockchain – exploring decentralized applications<br>💳 Payment Gateway Integration – implementing secure online payment systems
+💻 Java – strengthening my object-oriented programming skills<br>🧩 Data Structures & Algorithms (DSA) – writing efficient and optimized code<br>🛠️ Backend Development – working on Node.js, Express, and databases<br>🌐 Web3 & Blockchain – exploring decentralized applications<br>💳 Payment Gateway Integration – implementing secure online payment systems
 ### 💡 Interests
 I’m deeply interested in:<br>🌍 Web Development<br>🧠 Algorithm-efficient Problem Solving<br>🔗 Blockchain & Cryptocurrency<br>💳 Payment Integration Systems<br>⚡ Web3 and Decentralized Technology
 ### 🧩 What I Do
@@ -31,12 +31,13 @@ Develop full-stack web projects using React, Node.js, and MongoDB<br> > Experime
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-stats-extended.vercel.app/api?username=Harsh2227kumar&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](./profile/streak.svg)<br/>
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh2227kumar&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Harsh2227kumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Harsh2227kumar&theme=aura&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%">
+  <br><br>
+  <img src="./profile/streak.svg" alt="GitHub Streak Stats" width="48%">
+  <br><br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh2227kumar&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="48%">
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Harsh2227kumar&icon=0&color=0)](https://visitcount.itsvg.in)
