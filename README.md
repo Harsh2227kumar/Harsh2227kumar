@@ -15,7 +15,7 @@ Develop full-stack web projects using React, Node.js, and MongoDB<br> > Experime
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-2227-kumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harsh2227official@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-2227-kumar/) [![Portfolio](https://img.shields.io/badge/Portfolio%20Website-4285F4?logo=googlechrome&logoColor=white)](https://harsh-kumar.in/)
 
 <p align="center">
   <img src="./octo.png" alt="Background animation" width="40%">
